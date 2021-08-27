@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "violet",
     "header": {
-        "title": "Libris",
+        "title": "Kyrkovalet",
         "logo_img": "/images/logo-svenska-kyrkan-277x37.png",
         "logo_img_alt": "Svenska Kyrkan logo",
         "has_nav": true,
