@@ -11,6 +11,7 @@ sections:
       - label: Rösta nu
         url: /docs
         style: primary
+    image: /images/toppbild-2-2000w.jpg
   - section_id: features
     type: section_grid
     col_number: three
