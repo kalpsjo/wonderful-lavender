@@ -3,7 +3,7 @@ title: Hem
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Kyrkovalet 2021
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
