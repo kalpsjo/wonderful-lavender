@@ -15,7 +15,7 @@ sections:
 
 
       Här kan du ta reda på vilken församling du tillhör genom att skriva in
-      ditt postnummer.
+      ditt postnummer: <https://kandidatvisning.svenskakyrkan.se/>
     actions:
       - label: Rösta nu
         url: /docs
