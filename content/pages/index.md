@@ -128,7 +128,10 @@ seo:
     - name: 'twitter:title'
       value: Kyrkovalet 2021
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: >-
+        Vad vill du att Svenska kyrkan ska göra? 6-19 september är det val i
+        Svenska kyrkan. Alla medlemmar folkbokförda i Sverige som är 16 år och
+        äldre kan rösta.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
