@@ -4,7 +4,7 @@
     "palette": "violet",
     "header": {
         "title": "Libris",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/logo-svenska-kyrkan-277x37.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
