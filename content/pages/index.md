@@ -114,7 +114,10 @@ seo:
       value: Kyrkovalet 2021
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: >-
+        6-19 september 2021 är det val i Svenska kyrkan. Alla medlemmar
+        folkbokförda i Sverige som är 16 år och äldre kan rösta om hur de vill
+        att Svenska kyrkan ska styras.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
