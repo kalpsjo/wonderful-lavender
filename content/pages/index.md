@@ -115,9 +115,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        6-19 september 2021 är det val i Svenska kyrkan. Alla medlemmar
-        folkbokförda i Sverige som är 16 år och äldre kan rösta om hur de vill
-        att Svenska kyrkan ska styras.
+        Vad vill du att Svenska kyrkan ska göra? 6-19 september är det val i
+        Svenska kyrkan. Alla medlemmar folkbokförda i Sverige som är 16 år och
+        äldre kan rösta.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
