@@ -8,7 +8,7 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions:
-      - label: Get Started
+      - label: Rösta nu
         url: /docs
         style: primary
   - section_id: features
