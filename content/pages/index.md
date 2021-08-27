@@ -102,7 +102,7 @@ sections:
         style: primary
 seo:
   title: Kyrkovalet 2021 - Svenska Kyrkan
-  description: The preview of the Libris theme
+  description: 'Din röst räknas. '
   extra:
     - name: 'og:type'
       value: website
