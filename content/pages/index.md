@@ -102,7 +102,7 @@ sections:
         style: primary
 seo:
   title: Kyrkovalet 2021 - Svenska Kyrkan
-  description: 'Din röst räknas. '
+  description: 'Kyrkovalet  - vad vill du att Svenska kyrkan ska göra? '
   extra:
     - name: 'og:type'
       value: website
