@@ -4,9 +4,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Kyrkovalet 2021
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      6-19 september 2021 är det val i Svenska kyrkan. Alla medlemmar
+      folkbokförda i Sverige som är 16 år och äldre kan rösta om hur de vill att
+      Svenska kyrkan ska styras. Här hittar länkar till kyrkovalinformation från
+      Enskede Årsta församling, Farsta församling, Skarpnäcks församling och
+      Vantörs församling. 
     actions:
       - label: Rösta nu
         url: /docs
