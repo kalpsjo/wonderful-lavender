@@ -102,7 +102,10 @@ sections:
         style: primary
 seo:
   title: Kyrkovalet 2021 - Svenska Kyrkan
-  description: 'Kyrkovalet  - vad vill du att Svenska kyrkan ska göra? '
+  description: >-
+    Vad vill du att Svenska kyrkan ska göra? 6-19 september är det val i Svenska
+    kyrkan. Alla medlemmar folkbokförda i Sverige som är 16 år och äldre kan
+    rösta.
   extra:
     - name: 'og:type'
       value: website
